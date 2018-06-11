@@ -66,7 +66,7 @@ public class homeTask_3 {
         sleep(2000);
         driver.findElement(By.xpath("//a[@href='index.php?controller=AdminCategories&categoryOrderby=name&categoryOrderway=asc&token=795a6350b3a0f87af2a165b4c1a34372&id_category=2']/i")).click();
 
-        sleep(2000);
+        sleep(2500);
         driver.close();
     }
 
